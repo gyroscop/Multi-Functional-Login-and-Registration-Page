@@ -1,0 +1,4 @@
+1. Add Server
+2. Create a dynamic web project
+3. Change configuration in web.xml , configure the welcome page
+ 3.1 (temp) Create a welcome page in web_app using same name as in web.xml to see if working
